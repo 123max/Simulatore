@@ -1,0 +1,9 @@
+Mario;Rossi;mario@email.it;Catania Via Verdi 1;mario;123;13;casa;fratello;bmw;android;milano
+Lucia;Bianchi;lucia@email.com;Catania Via Etnea 152;lucy;456;10;yoga;pilates;palermo
+Giovanni;Verdi;giova@email.biz;Roma Via Garibaldi 65;giova;789;0
+
+Iphone 4S;20;Smartphone con fotocamera 8mpx, con processore dual core da 1ghz.
+Frullatore a immersione;8;Ottimo utensile da cucina. Lame affilate per sminuzzare verdure.
+Mouse ottico;4;Mouse ottico, molto preciso e rapido nella risposta.
+
+aaa;bbb;parolaccia;non si dice;termine offensivo
