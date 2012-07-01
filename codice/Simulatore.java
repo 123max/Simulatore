@@ -8,7 +8,7 @@ import javax.swing.*;
 
 /**
  *
- * @author TOSHIBA
+ * @author 123max
  */
 public class Simulatore extends javax.swing.JFrame {
 
@@ -570,7 +570,7 @@ public class Simulatore extends javax.swing.JFrame {
         Configuratore.getConfiguratore().addObserver(motori.getSuccessor());
         Configuratore.getConfiguratore().addObserver(motori.getSuccessor().getSuccessor());
         Configuratore.getConfiguratore().addObserver(motori.getSuccessor().getSuccessor().getSuccessor());
-        Configuratore.getConfiguratore().setConfig("C:\\Users\\TOSHIBA\\Desktop\\unict\\2\\Ingegneria del Software\\Progetto\\codice\\configurazioneSistema.txt");
+        Configuratore.getConfiguratore().setConfig("configurazioneSistema.txt");
     }
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton jButton1;
